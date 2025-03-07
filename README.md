@@ -1,6 +1,9 @@
 # 2ezlapse
 
-A simple and efficient web-based timelapse application that uses your system camera to create beautiful timelapses with configurable intervals.
+A simple and efficient web-based timelapse 
+
+<img width="872" alt="Screenshot 2025-03-07 at 8 53 45 AM" src="https://github.com/user-attachments/assets/3a714bf6-39a6-4675-9d00-6c04e252246d" />
+application that uses your system camera to create beautiful timelapses with configurable intervals.
 
 ## Features
 
